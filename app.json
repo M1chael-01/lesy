@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "lesy",
+    "slug": "lesy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "CODE": "",
+      "API": "",
+      "ADMIN_CODE": "",
+      "USER":"",
+      "CREATE_USER":"",
+      "CREATE_NUMERIC_CODE":"",
+      "CREATE_USER_CODE":"",
+      "ADMIN_KEY":"",
+      "SELECT_KEY":"",
+      "GEOCODE":"",
+      "ADMIN_KEY_IMPORTANT":"",
+      "SELECTOR":"",
+      "INF":"",
+      "PLACE":"",
+      "CODE_API":"",
+      "CODE_SECURED":"",
+      
+      "URL":""
+    }
+  }
+}

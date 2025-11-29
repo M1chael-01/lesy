@@ -1,0 +1,8 @@
+npx expo start --clear --tunnel
+
+
+npx expo start --clear --lan
+
+
+
+r => 1257
